@@ -49,9 +49,9 @@ const ToDoItem = () => {
           {items.map((ele,index) => {
             return (
               <div className="multiitem" key={index}>
-                <h3 className="" id="App">
+                <p className="" id="App">
                   {ele}
-                </h3>
+                </p>
                 <h3 id="Delete" onClick={() => deleteitem(index)}>
                   X
                 </h3>
