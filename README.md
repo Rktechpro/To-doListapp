@@ -22,7 +22,7 @@ This is a simple To-Do List application built using React. It allows users to:
    ```sh
    git clone https://github.com/Rktechpro/To-doListapp
 ## Run of the Project
- -npm install // node module file 
- -npm run dev // run of project
- -domain:http://localhost:5173/
+ - npm install // node module file 
+ - npm run dev // run of project
+ - domain:http://localhost:5173/
 
