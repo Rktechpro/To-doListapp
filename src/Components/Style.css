@@ -1,0 +1,53 @@
+.container {
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.inputdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 13px 15px;
+  border-radius: 5px;
+  background: tomato;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.showitem {
+  margin-top: 20px;
+}
+
+.multiitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #f4f4f4;
+  margin: 5px 0;
+}
+
+@media screen and (max-width: 480px) {
+  .inputdiv {
+    flex-direction: column;
+  }
+
+  input {
+    width: 100%;
+  }
+}
