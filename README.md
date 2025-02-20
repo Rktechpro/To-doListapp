@@ -15,7 +15,7 @@ This is a simple To-Do List application built using React. It allows users to:
 ## Challenges Faced
 - Handling state updates efficiently.
 - Ensuring localStorage updates correctly with every change.
-- Designing a simple yet intuitive UI.
+- Designing a simple.
 
 ## Installation & Setup
 1. Clone the repository:
