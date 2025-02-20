@@ -20,9 +20,9 @@ This is a simple To-Do List application built using React. It allows users to:
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/Rktechpro/To-doListapp
 ## Run of the Project
- 1.npm install // node module file 
- 2.npm run dev // run of project
- 3. domain:http://localhost:5173/
+ -npm install // node module file 
+ -npm run dev // run of project
+ -domain:http://localhost:5173/
 
